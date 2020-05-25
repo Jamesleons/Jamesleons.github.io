@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Minimalism
 
 [![Build Status](https://travis-ci.org/showzeng/Minimalism.svg?branch=master)](https://travis-ci.org/showzeng/Minimalism)
@@ -96,3 +97,7 @@ The theme is available as open source under the terms of the [MIT License](https
 [Change Log]: https://github.com/showzeng/Minimalism/wiki/Change-Log
 [HenCoder]: https://hencoder.com/
 [Jaeger]: https://jaeger.itscoder.com/
+=======
+# Jamesleons.github.io
+生活和科技上的思考/some thinking about  science and life
+>>>>>>> f5efb5b1dfd9cab051dfe697bad08d93170665b2
